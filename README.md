@@ -157,3 +157,9 @@ The Laravel backend is based on existing code and is used to practice frontend-t
 This is a practice project developed to strengthen my skills in frontend development, authentication workflows, API integration, and error handling.
 
 A live demo is not currently available because the application depends on a separately running Laravel backend API and database.
+
+## 👩‍💻 Author
+
+Developed with ❤️ by <ins>Paniz Asghari</ins>
+
+Frontend Developer | React.js
