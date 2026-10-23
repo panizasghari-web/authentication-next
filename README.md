@@ -2,8 +2,6 @@
 
 A full-stack authentication practice project built with **Next.js and React**, integrated with a Laravel backend API. The project focuses on user authentication, protected routes, cookie-based token storage, API integration, and reusable error handling.
 
-> **Live Demo:** Not available. This application requires a running Laravel backend API and a connected database to support authentication and fetch posts.
-
 ## ✨ Features
 
 ### 🏠 Home & Navigation
@@ -155,8 +153,6 @@ The Laravel backend is based on existing code and is used to practice frontend-t
 ## 📌 Project Status
 
 This is a practice project developed to strengthen my skills in frontend development, authentication workflows, API integration, and error handling.
-
-A live demo is not currently available because the application depends on a separately running Laravel backend API and database.
 
 ## 👩‍💻 Author
 
